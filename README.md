@@ -1,0 +1,1 @@
+Square is no longer maintaining our fork of hoptoad-ios. Please use [the original airbrake-ios](https://github.com/airbrake/airbrake-ios).
